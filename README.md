@@ -31,8 +31,8 @@ Recursive case is the way in which the recursive call is present in the function
 # codes 1
 
 ~~~
-//garv nandwana
-//23070123167
+//devansh chachra
+//22070123039
 #include <iostream>
 using namespace std;
 
@@ -58,8 +58,8 @@ int main() {
 ~~~
 # code 2
 ~~~
-// garv nandwana
-//23070123167
+// devansh chachra
+//22070123039
 #include <iostream>
 using namespace std;
 
