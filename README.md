@@ -84,8 +84,8 @@ int main() {
 ~~~
 # code 3
 ~~~
-//garv nandwana
-//23070123167
+//devansh chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
@@ -107,8 +107,8 @@ int main() {
 ~~~
 #code 4
 ~~~
-//garv nandwana
-//23070123167
+//devansh chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
